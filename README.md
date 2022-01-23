@@ -15,3 +15,7 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+
+## Live Site
+
+See live preview here: https://jonathancklee1.github.io/-fylo-2-column-landing-page/
